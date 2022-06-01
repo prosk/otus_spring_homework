@@ -1,1 +1,1 @@
-# otus_spring_homework
+# ДЗ по курсу Spring Framework
